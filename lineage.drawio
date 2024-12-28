@@ -1,41 +1,89 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="26.0.1">
   <diagram name="GOT" id="pR2eeyKzK9ETTxBEcOoW">
-    <mxGraphModel dx="1434" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9FuHlnZR6Ji06o75JvR_-1" value="Eddard Ned Stark" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-1" value="Eddard Ned Stark" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="220" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9FuHlnZR6Ji06o75JvR_-2" value="White walkers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-2" value="White walkers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="220" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9FuHlnZR6Ji06o75JvR_-3" value="Robert Baratheon" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="220" width="100" height="30" as="geometry" />
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-3" value="Robert Baratheon" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="220" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9FuHlnZR6Ji06o75JvR_-4" value="Brandon" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-4" value="Brandon" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="372.5" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9FuHlnZR6Ji06o75JvR_-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9FuHlnZR6Ji06o75JvR_-1" target="9FuHlnZR6Ji06o75JvR_-4">
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9FuHlnZR6Ji06o75JvR_-1" target="9FuHlnZR6Ji06o75JvR_-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="440" as="sourcePoint" />
             <mxPoint x="350" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9FuHlnZR6Ji06o75JvR_-6" value="Son" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-6" value="Son" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="260" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9FuHlnZR6Ji06o75JvR_-7" value="Jon Arryn" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="140" width="60" height="30" as="geometry" />
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-7" value="Jon Arryn" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="550" y="150" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9FuHlnZR6Ji06o75JvR_-8" value="Tyrion Lanister" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="830" y="220" width="100" height="30" as="geometry" />
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-8" value="Tyrion Lanister" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="810" y="320" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9FuHlnZR6Ji06o75JvR_-9" value="Arya" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-9" value="Arya" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9FuHlnZR6Ji06o75JvR_-10" value="Sansa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-10" value="Sansa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzELLcTyzoCebzg7dcx8-1" value="Rob" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzELLcTyzoCebzg7dcx8-2" value="Jaime Lanister" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzELLcTyzoCebzg7dcx8-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9FuHlnZR6Ji06o75JvR_-8" target="ZzELLcTyzoCebzg7dcx8-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="470" as="sourcePoint" />
+            <mxPoint x="1010" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZzELLcTyzoCebzg7dcx8-5" value="Brothers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzELLcTyzoCebzg7dcx8-6" value="Danerys Targaryen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="320" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzELLcTyzoCebzg7dcx8-7" value="Viserys" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzELLcTyzoCebzg7dcx8-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZzELLcTyzoCebzg7dcx8-6" target="ZzELLcTyzoCebzg7dcx8-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="450" as="sourcePoint" />
+            <mxPoint x="-250" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZzELLcTyzoCebzg7dcx8-9" value="Brother" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzELLcTyzoCebzg7dcx8-10" value="Khal Drogo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzELLcTyzoCebzg7dcx8-11" value="Uncle Benjen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzELLcTyzoCebzg7dcx8-12" value="John Snow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzELLcTyzoCebzg7dcx8-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9FuHlnZR6Ji06o75JvR_-1" target="ZzELLcTyzoCebzg7dcx8-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="440" as="sourcePoint" />
+            <mxPoint x="590" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZzELLcTyzoCebzg7dcx8-14" value="Bastard" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
