@@ -1,11 +1,41 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="26.0.1">
-  <diagram name="Page-1" id="pR2eeyKzK9ETTxBEcOoW">
+  <diagram name="GOT" id="pR2eeyKzK9ETTxBEcOoW">
     <mxGraphModel dx="1434" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9FuHlnZR6Ji06o75JvR_-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="150" width="60" height="30" as="geometry" />
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-1" value="Eddard Ned Stark" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-2" value="White walkers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-3" value="Robert Baratheon" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-4" value="Brandon" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9FuHlnZR6Ji06o75JvR_-1" target="9FuHlnZR6Ji06o75JvR_-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="440" as="sourcePoint" />
+            <mxPoint x="350" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-6" value="Son" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="260" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-7" value="Jon Arryn" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-8" value="Tyrion Lanister" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="220" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-9" value="Arya" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9FuHlnZR6Ji06o75JvR_-10" value="Sansa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
